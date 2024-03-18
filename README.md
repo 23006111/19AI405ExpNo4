@@ -118,5 +118,5 @@ G 0 <br>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
-Result:
+## Result:
 Thus the graph was constructed and implementation of A* Serach algorithm  for the same graph done successfully.
